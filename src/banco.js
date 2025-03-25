@@ -77,5 +77,3 @@ class Banco {
 
 // Exportando a classe para ser usada em outros arquivos ou em testes
 module.exports = Banco;
-
-
